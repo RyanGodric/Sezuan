@@ -23,7 +23,7 @@
             
            </nav>
        
-           <section>>
+           <section>
                 <article>
                     <header>
                         <h2> Der Gute Mensch von Sezuan </h2>
