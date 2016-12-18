@@ -31,17 +31,7 @@
                     
                       <p><h1> In diesem Java 3D / VR Projekt geht es um den Guten Mensch des Sezuan.</h1></p>
         
-                      <p><h2> Auf dieser Website finden Sie zahlreiche Informationen zu dem Stück und zu unserem Projekt.</h2></p>
+                      <p><h2> Auf dieser Website finden Sie zahlreiche Informationen zu dem Stück und zu unserem Projekt.</h2>				</p>
                       <p> </p>
                 
-		</article>
-           
-         </section>
-          
 
-        
-    </div>
-    
-	</body>
-	
-	</html>
