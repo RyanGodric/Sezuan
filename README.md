@@ -1,12 +1,8 @@
 <html>
 	
 	
-<body>
-   
-<div>
-      
-
-           <nav>
+<body bgcolor="orange">
+  
        
                 <h2> Menu </h2>
                 
