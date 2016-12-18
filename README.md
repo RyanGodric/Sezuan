@@ -3,9 +3,9 @@
 <html>
 	
 	
-<body color="orange">
+<body style="background:#80BFFF">
   
-       
+  <h1> Der Gute Mensch von Sezuan </h1>
                 <h2> Menu </h2>
                 
                 <ul>
