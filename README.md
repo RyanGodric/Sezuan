@@ -26,7 +26,7 @@
            <section>>
                 <article>
                     <header>
-                        <h2> LOST </h2>
+                        <h2> Der Gute Mensch von Sezuan </h2>
                     </header>
                     
                       <p><h1> In diesem Java 3D / VR Projekt geht es um den Guten Mensch des Sezuan.</h1></p>
