@@ -13,9 +13,9 @@
                 <ul>
                      
         <li><a href="lost.html"> Home </a></li>
-        <li><a href="java.html"> Schauspieler </a></li>
-        <li><a href="Insel.html"> Serie </a></li>          
-        <li><a href="Kontakt.html"> Bewertung </a></li>
+        <li><a href="java.html"> Der Gute Mensch von Sezuan </a></li>
+        <li><a href="Insel.html"> Projekt </a></li>          
+        <li><a href="Kontakt.html"> Vainglory </a></li>
         <li><a href="Impressum.html"> Impressum </a></li>
                     
                </ul>
