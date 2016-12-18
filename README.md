@@ -29,10 +29,7 @@
                       <p><h2> Auf dieser Website finden Sie zahlreiche Informationen zu dem Stück und zu unserem Projekt.</h2>				</p>
                       <p> </p>
                
-          
-
-        
-    </div>
+      
     
 	</body>
 	
