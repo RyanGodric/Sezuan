@@ -2,19 +2,15 @@
 	
 	
 <body>
-     
    
- <div>
+<div>
       
 
-           <nav id="MenuWeb">
-        
-          
-            
-            
+           <nav>
+       
                 <h2> Menu </h2>
                 
-                <ul class="ListeMenu">
+                <ul>
                      
         <li><a href="lost.html"> Home </a></li>
         <li><a href="java.html"> Schauspieler </a></li>
@@ -33,24 +29,15 @@
                         <h2> LOST </h2>
                     </header>
                     
-                      <p id="ueberschrift">LOST is a drama series containing elements of science fiction and the supernatural</p>
+                      <p><h1> In diesem Java 3D / VR Projekt geht es um den Guten Mensch des Sezuan.</h1></p>
         
-                      <p class="brauneschrift"> Auf dieser Website finden die zahlreiche Informationen zu den Schauspielern und Inhalten der Serie LOST.</p> 
-                      <p class="brauneschrift"> </p>
+                      <p><h2> Auf dieser Website finden Sie zahlreiche Informationen zu dem Stück und zu unserem Projekt.</h2></p>
+                      <p> </p>
                 
-               </article>
+		</article>
            
          </section>
-           
-       <section>
-        
           
-        
-           
-        
-     
-        
-        </section>
 
         
     </div>
