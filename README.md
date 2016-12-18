@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-
-	<html>
+<html>
 	
 	<head>
 	
@@ -11,13 +9,9 @@
 	
 	</head>
 	
-	<body id="bodylost">
+<body id="bodylost">
      
-        
-        <script>
-    alert("Herzlich Willkommen! Dies ist eine Seite über die beste Drama Serie!");
-        </script>
-        
+   
  <div id="container">
         
            <header id="header">
