@@ -1,22 +1,11 @@
 <html>
 	
-	<head>
 	
-	<meta charset="utf-8">
-    <meta name="author" content="Timo Tekolf">
-	<title> Sezuan </title> 
-    <link rel="stylesheet" type="text/css" href="CS.css">
-	
-	</head>
-	
-<body id="bodylost">
+<body>
      
    
- <div id="container">
-        
-           <header id="header">
-                <img src="lostbild.jpg" id="Titelbild" alt="Titelbild">
-           </header>
+ <div>
+      
 
            <nav id="MenuWeb">
         
@@ -38,7 +27,7 @@
             
            </nav>
        
-           <section id="inhalt">
+           <section>>
                 <article>
                     <header>
                         <h2> LOST </h2>
@@ -53,27 +42,16 @@
            
          </section>
            
-       <section id="WebBild">
+       <section>
         
           
         
-               <img src="lostbild3.jpg" id="KLost" alt="LostBild" >
+           
         
      
         
         </section>
 
-         <footer id="footerWeb">
-                 <div id="headerfootimp"> 
-                <ul>
-                
-                <li> In memory of the best drama serie ever <img src="Lost.jpg" id="flagge" alt="flagge"></li>
-                <li> created by J.J Abrams, Jeffrey Lieber and Damon Lindelof</li>
-            
-                </ul>
-                </div>
-        
-            </footer>
         
     </div>
     
