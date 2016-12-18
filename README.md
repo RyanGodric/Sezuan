@@ -1,7 +1,7 @@
 <html>
 	
 	
-<body bgcolor="orange">
+<body color="orange">
   
        
                 <h2> Menu </h2>
@@ -17,10 +17,9 @@
                </ul>
                
             
-           </nav>
+      
        
-           <section>
-                <article>
+          
                     <header>
                         <h2> Der Gute Mensch von Sezuan </h2>
                     </header>
@@ -29,10 +28,7 @@
         
                       <p><h2> Auf dieser Website finden Sie zahlreiche Informationen zu dem Stück und zu unserem Projekt.</h2>				</p>
                       <p> </p>
-                
-		</article>
-           
-         </section>
+               
           
 
         
